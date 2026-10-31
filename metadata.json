@@ -1,0 +1,8 @@
+{
+  "name": "1ClickLeads - Real-Time Timeshare Exit Lead Stream",
+  "description": "Live incoming timeshare exit leads portal with real-time landing page simulation and admin spreadsheet feeder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
